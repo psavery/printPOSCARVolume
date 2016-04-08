@@ -1,0 +1,5 @@
+Written by Patrick Avery - 2016
+
+To compile, just type "make" in this directory
+
+You may change your fortran compiler if you need to in the "Makefile"
